@@ -2,17 +2,17 @@
     "name": "entelix/edilink",
     "description": "EDILink — Laravel package for building, dispatching and parsing shipping EDI messages. Pluggable carrier profiles. Zero framework coupling in the core.",
     "keywords": [
-        "laravel", "edi", "shipping", "container", "logistics",
-        "edifact", "msc", "gate-in", "gate-out", "mnr", "depot"
+        "laravel", "edi", "shipping", "container", "logistics", "KMTC", "Adani",
+        "edifact", "msc", "gate-in", "gate-out", "mnr", "depot", "HLL", "Happag Lloyd", "OOCL"
     ],
-    "homepage": "https://github.com/entelix/edilink",
+    "homepage": "https://github.com/HiralRajgor/edilink",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Entelix Technologies",
-            "email": "hello@entelix.com",
-            "homepage": "https://entelix.com",
+            "email": "hiralrajgor254@gmail.com",
+            "homepage": "https://entelix.in",
             "role": "Developer"
         }
     ],
