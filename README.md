@@ -2,7 +2,7 @@
 
 **Laravel package for generating shipping EDI files from container lifecycle events.**
 
-EDILink gives you a clean, framework-agnostic pipeline to turn your container movement data into carrier-ready EDI output — with zero database coupling, typed data objects, and a pluggable carrier profile system that makes adding new shipping lines straightforward.
+Stuck figuring out encoding and decoding EDIs, here is the easiest way to do it. EDILink gives you a clean, framework-agnostic pipeline to turn your container movement data into carrier-ready EDI output — with zero database coupling, typed data objects, and a pluggable carrier profile system that makes adding new shipping lines straightforward.
 
 Built and maintained by [Hiral Rajgor](https://github.com/HiralRajgor) | [Entelix Technologies](https://entelix.in).
 
