@@ -1,10 +1,10 @@
-# EDILink by Hiral Rajgor | Entelix
+# EDILink by Hiral Rajgor
 
 **Laravel package for generating shipping EDI files from container lifecycle events.**
 
 Stuck figuring out encoding and decoding EDIs, here is the easiest way to do it. EDILink gives you a clean, framework-agnostic pipeline to turn your container movement data into carrier-ready EDI output — with zero database coupling, typed data objects, and a pluggable carrier profile system that makes adding new shipping lines straightforward.
 
-Built and maintained by [Hiral Rajgor](https://github.com/HiralRajgor) | [Entelix Technologies](https://entelix.in).
+Built and maintained by [Hiral Rajgor](https://github.com/HiralRajgor).
 
 ---
 
@@ -457,7 +457,7 @@ composer install
 - [ ] OOCL carrier profile
 - [ ] Inbound EDI parser (raw EDI text → `MovementRecord[]`)
 - [ ] Schema validator with field-level error messages
-- [ ] Hosted API tier — subscribe at entelix.com for an API key
+- [ ] Hosted API tier — subscribe at entelix.in for an API key
 
 ---
 
@@ -465,4 +465,4 @@ composer install
 
 MIT — free to use in any project.
 
-© Entelix Technologies. Contributions welcome via GitHub.
+© [Hiral Rajgor](https://hiralrajgor.entelix.in) | [Entelix Technologies](https://entelix.in). Contributions welcome via GitHub.
